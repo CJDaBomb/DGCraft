@@ -19,6 +19,7 @@
   },
   "result":
   {
-      "item" : "dangancraft:monorite_sword"
+      "item" : "dangancraft:monorite_sword",
+    "count": 1
   }
 }
